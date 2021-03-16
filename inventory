@@ -1,0 +1,18 @@
+[local]
+127.0.0.1 ansible_connection=local
+
+[prometheus]
+127.0.0.1 ansible_connection=local
+
+[node_exporter]
+127.0.0.1 ansible_connection=local
+
+[alertmanager]
+127.0.0.1 ansible_connection=local
+
+[grafana]
+127.0.0.1 ansible_connection=local
+
+
+
+

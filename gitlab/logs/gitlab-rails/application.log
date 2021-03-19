@@ -56,3 +56,5 @@ Use an `after_commit` hook, or include `AfterCommitQueue` and use a `run_after_c
 2021-03-19T03:24:00.775Z: Updating statistics for project 2
 2021-03-19T03:24:00.813Z: Cannot obtain an exclusive lease for namespace:namespaces_root_statistics:1. There must be another instance already in execution.
 2021-03-19T03:24:00.909Z: Updating statistics for project 2
+2021-03-19T03:35:53.589Z: Updating statistics for project 2
+2021-03-19T03:39:02.607Z: Updating statistics for project 2

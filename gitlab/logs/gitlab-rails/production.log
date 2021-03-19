@@ -1189,3 +1189,213 @@ Completed 200 OK in 109ms (Views: 105.1ms | ActiveRecord: 0.4ms | Elasticsearch:
 Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:34:25 +0000
 Processing by MetricsController#index as HTML
 Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:34:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:34:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:35:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:35:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 78ms (Views: 73.6ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85780)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:35:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:35:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:35:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:36:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:36:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 103ms (Views: 99.6ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85115)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:36:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:36:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:36:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:37:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:37:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 78ms (Views: 73.8ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85112)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:37:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:37:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:37:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:38:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:38:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 80ms (Views: 76.1ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85268)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:38:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 13ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:38:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:38:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:39:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:39:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 120ms (Views: 115.5ms | ActiveRecord: 0.7ms | Elasticsearch: 0.0ms | Allocations: 85248)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:39:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:39:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.6ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:39:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:40:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 13ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:40:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 91ms (Views: 86.5ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85171)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:40:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:40:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:40:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 13ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:41:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:41:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 114ms (Views: 110.7ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85800)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:41:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:41:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:41:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:42:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:42:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 113ms (Views: 108.8ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85110)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:42:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:42:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:42:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:43:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 14ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:43:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 79ms (Views: 74.5ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85242)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:43:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:43:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:43:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:44:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:44:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 80ms (Views: 75.4ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85244)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:44:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:44:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:44:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:45:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:45:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 100ms (Views: 96.0ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85131)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:45:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:45:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:45:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:46:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:46:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 79ms (Views: 75.2ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85098)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:46:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:46:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:46:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:47:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:47:25 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 89ms (Views: 85.3ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85105)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:47:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:47:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:47:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:48:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:48:25 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 76ms (Views: 72.9ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85104)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:48:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)

@@ -53,3 +53,6 @@
 {"severity":"INFO","time":"2021-03-19T03:24:00.775Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Updating statistics for project 2"}
 {"severity":"ERROR","time":"2021-03-19T03:24:00.813Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Cannot obtain an exclusive lease for namespace:namespaces_root_statistics:1. There must be another instance already in execution."}
 {"severity":"INFO","time":"2021-03-19T03:24:00.909Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Updating statistics for project 2"}
+{"severity":"INFO","time":"2021-03-19T03:35:53.589Z","correlation_id":"e389a58519289069af4dead8338fcbc2","message":"Updating statistics for project 2"}
+{"severity":"INFO","time":"2021-03-19T03:39:02.607Z","correlation_id":"6317d041e4fa3eb3a35082a901affcc6","message":"Updating statistics for project 2"}
+{"severity":"INFO","time":"2021-03-19T03:42:35.384Z","correlation_id":"3320f2ff17814602acc9f6fd16d2a8da","event":"authorized_projects_refresh","authorized_projects_refresh.source":"AuthorizedProjectUpdate::UserRefreshWithLowUrgencyWorker","authorized_projects_refresh.rows_deleted":0,"authorized_projects_refresh.rows_added":0}

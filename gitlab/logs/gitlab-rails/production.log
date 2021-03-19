@@ -1,0 +1,1191 @@
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+[ActiveJob] Enqueued ActionMailer::MailDeliveryJob (Job ID: c9ac15c0-ae89-4694-b4a0-ab17ac51c16a) to Sidekiq(mailers) with arguments: "Notify", "member_access_granted_email", "deliver_now", {:args=>["Group", 1]}
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Started GET "/" for  at 2021-03-19 02:43:27 +0000
+Processing by RootController#index as HTML
+Redirected to http://example.org/users/sign_in
+Filter chain halted as :redirect_unlogged_user rendered or redirected
+Completed 302 Found in 21ms (ActiveRecord: 2.3ms | Elasticsearch: 0.0ms | Allocations: 9852)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:43:33 +0000
+[ActiveJob] [ActionMailer::MailDeliveryJob] [c9ac15c0-ae89-4694-b4a0-ab17ac51c16a] Performing ActionMailer::MailDeliveryJob (Job ID: c9ac15c0-ae89-4694-b4a0-ab17ac51c16a) from Sidekiq(mailers) enqueued at 2021-03-19T02:42:32Z with arguments: "Notify", "member_access_granted_email", "deliver_now", {:args=>["Group", 1]}
+Processing by HelpController#index as */*
+Completed 200 OK in 379ms (Views: 350.2ms | ActiveRecord: 23.0ms | Elasticsearch: 0.0ms | Allocations: 369107)
+[ActiveJob] [ActionMailer::MailDeliveryJob] [c9ac15c0-ae89-4694-b4a0-ab17ac51c16a] Delivered mail 60540fd64c453_3322f4186fc@gitlab.example.com.mail (5.6ms)
+[ActiveJob] [ActionMailer::MailDeliveryJob] [c9ac15c0-ae89-4694-b4a0-ab17ac51c16a] Performed ActionMailer::MailDeliveryJob (Job ID: c9ac15c0-ae89-4694-b4a0-ab17ac51c16a) from Sidekiq(mailers) in 457.37ms
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:43:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 1.1ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 1304)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:43:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 4.0ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 2519)
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:44:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 847)
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:44:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 847)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:44:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 336ms (Views: 313.9ms | ActiveRecord: 15.5ms | Elasticsearch: 0.0ms | Allocations: 359912)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:44:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 877)
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:44:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 869)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:45:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 5.4ms | ActiveRecord: 0.7ms | Elasticsearch: 0.0ms | Allocations: 3273)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:45:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 869)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:45:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 141ms (Views: 129.7ms | ActiveRecord: 7.2ms | Elasticsearch: 0.0ms | Allocations: 88244)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:45:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 869)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:45:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 869)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:46:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 869)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:46:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 869)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:46:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 346ms (Views: 320.0ms | ActiveRecord: 18.5ms | Elasticsearch: 0.0ms | Allocations: 366303)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:46:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:46:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 901)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:47:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:47:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:47:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 117ms (Views: 112.9ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85985)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:47:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.9ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 1362)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:47:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 901)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:48:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 905)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:48:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:48:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 81ms (Views: 77.4ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85791)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:48:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:48:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:49:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:49:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:49:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 115ms (Views: 111.0ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85297)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:49:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 899)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:49:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:50:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 899)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:50:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:50:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 111ms (Views: 104.8ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85117)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:50:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:50:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:51:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 898)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:51:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 901)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:51:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 331ms (Views: 305.5ms | ActiveRecord: 18.6ms | Elasticsearch: 0.0ms | Allocations: 359938)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:51:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:51:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:52:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:52:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:52:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 79ms (Views: 75.0ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85799)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:52:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:52:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:53:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:53:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:53:37 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 84ms (Views: 79.8ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85794)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:53:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:53:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:54:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:54:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:54:37 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 128ms (Views: 123.2ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85982)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:54:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:54:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:55:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:55:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:55:37 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 83ms (Views: 78.5ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85106)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:55:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:55:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:56:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:56:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:56:37 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 81ms (Views: 77.4ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85106)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:56:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:56:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:57:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:57:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:57:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 92ms (Views: 88.2ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85823)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:57:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:57:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:58:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:58:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:58:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 118ms (Views: 112.4ms | ActiveRecord: 1.3ms | Elasticsearch: 0.0ms | Allocations: 85802)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:58:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:58:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:59:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:59:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 02:59:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 83ms (Views: 78.2ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85106)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:59:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 02:59:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:00:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:00:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 934)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:00:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 109ms (Views: 105.2ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85802)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:00:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:00:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:01:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:01:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:01:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 122ms (Views: 117.5ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85130)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:01:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:01:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:02:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:02:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Creating scope :without_statuses. Overwriting existing method Ci::Pipeline.without_statuses.
+Creating scope :open. Overwriting existing method AlertManagement::Alert.open.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :without_statuses. Overwriting existing method Ci::Stage.without_statuses.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :preparing. Overwriting existing method Ci::Stage.preparing.
+Creating scope :waiting_for_resource. Overwriting existing method Ci::Stage.waiting_for_resource.
+Creating scope :open. Overwriting existing method ExternalPullRequest.open.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :with_user. Overwriting existing method GroupMember.with_user.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Creating scope :system. Overwriting existing method Gitlab::DatabaseImporters::CommonMetrics::PrometheusMetric.system.
+Started GET "/" for  at 2021-03-19 03:14:28 +0000
+Processing by RootController#index as HTML
+Redirected to http://example.org/users/sign_in
+Filter chain halted as :redirect_unlogged_user rendered or redirected
+Completed 302 Found in 19ms (ActiveRecord: 1.4ms | Elasticsearch: 0.0ms | Allocations: 9665)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:14:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 3.7ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 2501)
+Started GET "/" for 172.18.0.1 at 2021-03-19 03:14:48 +0000
+Processing by RootController#index as HTML
+Redirected to http://localhost:8080/users/sign_in
+Filter chain halted as :redirect_unlogged_user rendered or redirected
+Completed 302 Found in 8ms (ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 3711)
+Started GET "/users/sign_in" for 172.18.0.1 at 2021-03-19 03:14:49 +0000
+Processing by SessionsController#new as HTML
+Redirected to http://localhost:8080/users/password/edit?reset_password_token=Kazn18G3_6sAuBn7VfK3
+Filter chain halted as :check_initial_setup rendered or redirected
+Completed 302 Found in 203ms (ActiveRecord: 31.7ms | Elasticsearch: 0.0ms | Allocations: 40540)
+Started GET "/users/password/edit?reset_password_token=[FILTERED]" for 172.18.0.1 at 2021-03-19 03:14:49 +0000
+Processing by PasswordsController#edit as HTML
+  Parameters: {"reset_password_token"=>"[FILTERED]"}
+Completed 200 OK in 162ms (Views: 131.0ms | ActiveRecord: 16.2ms | Elasticsearch: 0.0ms | Allocations: 156310)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:14:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 876)
+Started PUT "/users/password" for 172.18.0.1 at 2021-03-19 03:15:01 +0000
+Processing by PasswordsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"[FILTERED]", "user"=>{"reset_password_token"=>"[FILTERED]", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}}
+[ActiveJob] Enqueued ActionMailer::MailDeliveryJob (Job ID: a8570892-4986-4df2-92f0-09c4e3185fab) to Sidekiq(mailers) with arguments: "DeviseMailer", "password_change", "deliver_now", {:args=>[#<GlobalID:0x00007f28c6cfdac8 @uri=#<URI::GID gid://gitlab/User/1>>]}
+[ActiveJob] [ActionMailer::MailDeliveryJob] [a8570892-4986-4df2-92f0-09c4e3185fab] Performing ActionMailer::MailDeliveryJob (Job ID: a8570892-4986-4df2-92f0-09c4e3185fab) from Sidekiq(mailers) enqueued at 2021-03-19T03:15:01Z with arguments: "DeviseMailer", "password_change", "deliver_now", {:args=>[#<GlobalID:0x00007f7a057d3648 @uri=#<URI::GID gid://gitlab/User/1>>]}
+Redirected to http://localhost:8080/users/sign_in
+Completed 302 Found in 308ms (ActiveRecord: 31.0ms | Elasticsearch: 0.0ms | Allocations: 51444)
+Started GET "/users/sign_in" for 172.18.0.1 at 2021-03-19 03:15:01 +0000
+Processing by SessionsController#new as HTML
+[ActiveJob] [ActionMailer::MailDeliveryJob] [a8570892-4986-4df2-92f0-09c4e3185fab] Delivered mail 605417358bf2d_1f92fa80458c2@gitlab.example.com.mail (6.4ms)
+[ActiveJob] [ActionMailer::MailDeliveryJob] [a8570892-4986-4df2-92f0-09c4e3185fab] Performed ActionMailer::MailDeliveryJob (Job ID: a8570892-4986-4df2-92f0-09c4e3185fab) from Sidekiq(mailers) in 70.66ms
+Completed 200 OK in 187ms (Views: 146.4ms | ActiveRecord: 18.3ms | Elasticsearch: 0.0ms | Allocations: 174457)
+Raven 3.0.4 configured not to capture errors: DSN not set
+Creating scope :without_statuses. Overwriting existing method CommitStatus.without_statuses.
+An enum element in Ci::Runner uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Creating scope :in_pipelines. Overwriting existing method Ci::Build.in_pipelines.
+Creating scope :with_api_entity_associations. Overwriting existing method Issue.with_api_entity_associations.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_created_desc. Overwriting existing method Packages::Package.order_created_desc.
+Creating scope :order_name_desc. Overwriting existing method Packages::Package.order_name_desc.
+An enum element in UserStatus uses the prefix 'not_'. This will cause a conflict with auto generated negative scopes.
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:15:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 5.3ms | ActiveRecord: 0.8ms | Elasticsearch: 0.0ms | Allocations: 3525)
+Started POST "/users/sign_in" for 172.18.0.1 at 2021-03-19 03:15:13 +0000
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"[FILTERED]", "user"=>{"login"=>"guido", "password"=>"[FILTERED]", "remember_me"=>"0"}}
+Completed 401 Unauthorized in 15ms (ActiveRecord: 1.8ms | Elasticsearch: 0.0ms | Allocations: 5053)
+Processing by SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"[FILTERED]", "user"=>{"login"=>"guido", "password"=>"[FILTERED]", "remember_me"=>"0"}}
+Completed 200 OK in 96ms (Views: 19.1ms | ActiveRecord: 3.7ms | Elasticsearch: 0.0ms | Allocations: 14997)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:15:16 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 334ms (Views: 309.2ms | ActiveRecord: 18.8ms | Elasticsearch: 0.0ms | Allocations: 366084)
+Started POST "/users/sign_in" for 172.18.0.1 at 2021-03-19 03:15:20 +0000
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"[FILTERED]", "user"=>{"login"=>"root", "password"=>"[FILTERED]", "remember_me"=>"0"}}
+Redirected to http://localhost:8080/
+Completed 302 Found in 335ms (ActiveRecord: 83.6ms | Elasticsearch: 0.0ms | Allocations: 79398)
+Started GET "/" for 172.18.0.1 at 2021-03-19 03:15:21 +0000
+Processing by RootController#index as HTML
+Completed 200 OK in 934ms (Views: 486.6ms | ActiveRecord: 132.6ms | Elasticsearch: 0.0ms | Allocations: 648760)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:15:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 936)
+Started GET "/projects/new" for 172.18.0.1 at 2021-03-19 03:15:31 +0000
+Processing by ProjectsController#new as HTML
+Completed 200 OK in 520ms (Views: 466.1ms | ActiveRecord: 17.5ms | Elasticsearch: 0.0ms | Allocations: 231899)
+Started GET "/import/github/new" for 172.18.0.1 at 2021-03-19 03:15:39 +0000
+Processing by Import::GithubController#new as HTML
+Completed 200 OK in 358ms (Views: 224.7ms | ActiveRecord: 17.8ms | Elasticsearch: 0.0ms | Allocations: 320324)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:15:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 1.0ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 1387)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:15:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:16:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:16:17 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 386ms (Views: 377.0ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 134488)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:16:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:16:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 934)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:16:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:17:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 1.2ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 1385)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:17:17 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 107ms (Views: 103.0ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85378)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:17:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:17:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:17:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:18:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:18:18 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 231ms (Views: 225.9ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 256680)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:18:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started POST "/import/github/personal_access_token" for 172.18.0.1 at 2021-03-19 03:18:26 +0000
+Processing by Import::GithubController#personal_access_token as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"[FILTERED]", "personal_access_token"=>"[FILTERED]"}
+Redirected to http://localhost:8080/import/github/status
+Completed 302 Found in 16ms (ActiveRecord: 1.4ms | Elasticsearch: 0.0ms | Allocations: 6206)
+Started GET "/import/github/status" for 172.18.0.1 at 2021-03-19 03:18:26 +0000
+Processing by Import::GithubController#status as HTML
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:18:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.6ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Completed 200 OK in 16834ms (Views: 45.9ms | ActiveRecord: 5.7ms | Elasticsearch: 0.0ms | Allocations: 96148)
+Started GET "/import/available_namespaces" for 172.18.0.1 at 2021-03-19 03:18:43 +0000
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:18:43 +0000
+Started GET "/import/github/status.json" for 172.18.0.1 at 2021-03-19 03:18:43 +0000
+Processing by Import::AvailableNamespacesController#index as JSON
+Processing by Import::GithubController#status as JSON
+Processing by Import::GithubController#realtime_changes as JSON
+Completed 200 OK in 22ms (Views: 0.2ms | ActiveRecord: 2.2ms | Elasticsearch: 0.0ms | Allocations: 5822)
+Completed 200 OK in 106ms (Views: 0.2ms | ActiveRecord: 6.1ms | Elasticsearch: 0.0ms | Allocations: 67425)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:18:46 +0000
+Processing by Import::GithubController#realtime_changes as JSON
+Completed 200 OK in 9ms (Views: 0.1ms | ActiveRecord: 1.7ms | Elasticsearch: 0.0ms | Allocations: 3629)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:18:49 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:18:52 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:18:55 +0000
+Processing by MetricsController#index as HTML
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:18:55 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:18:58 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Completed 200 OK in 17187ms (Views: 0.7ms | ActiveRecord: 23.1ms | Elasticsearch: 0.0ms | Allocations: 153675)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:01 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:04 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:08 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:19:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:11 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:14 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:17 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:19:18 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 93ms (Views: 88.6ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85939)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:20 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:23 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:19:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:26 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:29 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:32 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started POST "/import/github.json" for 172.18.0.1 at 2021-03-19 03:19:34 +0000
+Processing by Import::GithubController#create as JSON
+  Parameters: {"repo_id"=>348146260, "ci_cd_only"=>false, "new_name"=>"Automation-APP", "target_namespace"=>"root", "github"=>{"repo_id"=>348146260, "ci_cd_only"=>false, "new_name"=>"Automation-APP", "target_namespace"=>"root"}}
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:35 +0000
+Processing by Import::GithubController#realtime_changes as JSON
+Completed 200 OK in 8ms (Views: 0.1ms | ActiveRecord: 1.5ms | Elasticsearch: 0.0ms | Allocations: 3623)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:38 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:19:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:41 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:44 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:47 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:50 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:53 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:19:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:56 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:19:59 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Completed 200 OK in 25402ms (Views: 0.3ms | ActiveRecord: 286.8ms | Elasticsearch: 0.0ms | Allocations: 266861)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:02 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:05 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:08 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:20:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.6ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:11 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:14 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:17 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:20:18 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 87ms (Views: 82.5ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85109)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:20 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:23 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:20:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:26 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:29 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:32 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:35 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:38 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:20:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:41 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:44 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:47 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:50 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:53 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:20:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:56 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:20:59 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:02 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:05 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:08 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:21:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:11 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:14 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:17 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:21:18 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 85ms (Views: 79.9ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85299)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:20 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:23 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:21:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:26 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:29 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:32 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:35 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:38 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:21:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:41 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:44 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:47 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:50 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:53 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:21:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:56 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:21:59 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:02 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:05 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:08 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:22:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 1.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:11 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:14 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:17 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:22:19 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 117ms (Views: 112.4ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85108)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:20 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:23 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:22:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:26 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:29 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:33 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:36 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:39 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:22:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:42 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:45 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:22:48 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:22:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:23:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:23:19 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 83ms (Views: 78.9ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85794)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:23:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 1.2ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:23:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:23:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:24:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:24:19 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 82ms (Views: 78.0ms | ActiveRecord: 0.5ms | Elasticsearch: 0.0ms | Allocations: 85116)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:24:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:24:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:24:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:25:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:25:19 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 101ms (Views: 97.0ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85265)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:25:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:25:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:25:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:26:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:26:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 92ms (Views: 88.5ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85797)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:26:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:26:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:26:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:27:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:27:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 288ms (Views: 278.9ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 116665)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:27:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:27:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:27:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:28:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:28:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 85ms (Views: 81.0ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85114)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:28:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:28:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:28:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:29:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:29:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 108ms (Views: 103.9ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85134)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:29:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:29:28 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:29:32 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:29:35 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/import/github/realtime_changes.json" for 172.18.0.1 at 2021-03-19 03:29:38 +0000
+Completed 304 Not Modified in 0ms (Allocations: 4)
+Started GET "/" for 172.18.0.1 at 2021-03-19 03:29:39 +0000
+Processing by RootController#index as HTML
+Completed 200 OK in 215ms (Views: 134.1ms | ActiveRecord: 14.3ms | Elasticsearch: 0.0ms | Allocations: 171893)
+Started GET "/search/opensearch.xml" for 172.18.0.1 at 2021-03-19 03:29:39 +0000
+Processing by SearchController#opensearch as XML
+Completed 200 OK in 8ms (Views: 3.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 4516)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:29:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/root/Automation-APP" for 172.18.0.1 at 2021-03-19 03:29:41 +0000
+Processing by ProjectsController#show as HTML
+  Parameters: {"namespace_id"=>"root", "id"=>"Automation-APP"}
+Completed 200 OK in 983ms (Views: 839.4ms | ActiveRecord: 119.5ms | Elasticsearch: 0.0ms | Allocations: 711841)
+Started GET "/root/Automation-APP/-/refs/main/logs_tree/?format=json&offset=0" for 172.18.0.1 at 2021-03-19 03:29:42 +0000
+Started POST "/api/graphql" for 172.18.0.1 at 2021-03-19 03:29:42 +0000
+Started GET "/root/Automation-APP/-/blob/main/README.md?format=json&viewer=rich" for 172.18.0.1 at 2021-03-19 03:29:42 +0000
+Processing by GraphqlController#execute as */*
+  Parameters: {"query"=>"query pathLastCommit($projectPath: ID!, $path: String, $ref: String!) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        lastCommit {\n          __typename\n          sha\n          title\n          titleHtml\n          descriptionHtml\n          message\n          webPath\n          authoredDate\n          authorName\n          authorGravatar\n          author {\n            __typename\n            name\n            avatarUrl\n            webPath\n          }\n          signatureHtml\n          pipelines(ref: $ref, first: 1) {\n            __typename\n            edges {\n              __typename\n              node {\n                __typename\n                detailedStatus {\n                  __typename\n                  detailsPath\n                  icon\n                  tooltip\n                  text\n                  group\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n", "variables"=>"[FILTERED]", "graphql"=>{"query"=>"query pathLastCommit($projectPath: ID!, $path: String, $ref: String!) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        lastCommit {\n          __typename\n          sha\n          title\n          titleHtml\n          descriptionHtml\n          message\n          webPath\n          authoredDate\n          authorName\n          authorGravatar\n          author {\n            __typename\n            name\n            avatarUrl\n            webPath\n          }\n          signatureHtml\n          pipelines(ref: $ref, first: 1) {\n            __typename\n            edges {\n              __typename\n              node {\n                __typename\n                detailedStatus {\n                  __typename\n                  detailsPath\n                  icon\n                  tooltip\n                  text\n                  group\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n", "variables"=>"[FILTERED]"}}
+Processing by Projects::BlobController#show as JSON
+  Parameters: {"viewer"=>"rich", "namespace_id"=>"root", "project_id"=>"Automation-APP", "id"=>"main/README.md"}
+Processing by Projects::RefsController#logs_tree as JSON
+  Parameters: {"offset"=>"0", "namespace_id"=>"root", "project_id"=>"Automation-APP", "id"=>"main"}
+Completed 200 OK in 150ms (Views: 0.3ms | ActiveRecord: 10.0ms | Elasticsearch: 0.0ms | Allocations: 34609)
+Completed 200 OK in 227ms (Views: 1.0ms | ActiveRecord: 25.8ms | Elasticsearch: 0.0ms | Allocations: 46209)
+Started POST "/api/graphql" for 172.18.0.1 at 2021-03-19 03:29:43 +0000
+Processing by GraphqlController#execute as */*
+  Parameters: {"_json"=>[{"operationName"=>"getPermissions", "variables"=>"[FILTERED]", "query"=>"query getPermissions($projectPath: ID!) {\n  project(fullPath: $projectPath) {\n    __typename\n    userPermissions {\n      __typename\n      pushCode\n      forkProject\n      createMergeRequestIn\n    }\n  }\n}\n"}, {"operationName"=>"getFiles", "variables"=>"[FILTERED]", "query"=>"fragment PageInfo on PageInfo {\n  __typename\n  hasNextPage\n  hasPreviousPage\n  startCursor\n  endCursor\n}\n\nfragment TreeEntry on Entry {\n  __typename\n  id\n  sha\n  name\n  flatPath\n  type\n}\n\nquery getFiles($projectPath: ID!, $path: String, $ref: String!, $pageSize: Int!, $nextPageCursor: String) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        trees(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webPath\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        submodules(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webUrl\n              treeUrl\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        blobs(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              mode\n              webPath\n              lfsOid\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n      }\n    }\n  }\n}\n"}], "graphql"=>{"_json"=>[{"operationName"=>"getPermissions", "variables"=>"[FILTERED]", "query"=>"query getPermissions($projectPath: ID!) {\n  project(fullPath: $projectPath) {\n    __typename\n    userPermissions {\n      __typename\n      pushCode\n      forkProject\n      createMergeRequestIn\n    }\n  }\n}\n"}, {"operationName"=>"getFiles", "variables"=>"[FILTERED]", "query"=>"fragment PageInfo on PageInfo {\n  __typename\n  hasNextPage\n  hasPreviousPage\n  startCursor\n  endCursor\n}\n\nfragment TreeEntry on Entry {\n  __typename\n  id\n  sha\n  name\n  flatPath\n  type\n}\n\nquery getFiles($projectPath: ID!, $path: String, $ref: String!, $pageSize: Int!, $nextPageCursor: String) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        trees(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webPath\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        submodules(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webUrl\n              treeUrl\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        blobs(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              mode\n              webPath\n              lfsOid\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n      }\n    }\n  }\n}\n"}]}}
+Completed 200 OK in 86ms (Views: 0.7ms | ActiveRecord: 3.6ms | Elasticsearch: 0.0ms | Allocations: 49453)
+Completed 200 OK in 810ms (Views: 0.5ms | ActiveRecord: 84.6ms | Elasticsearch: 0.0ms | Allocations: 128210)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:29:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:30:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:30:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 132ms (Views: 126.4ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85264)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:30:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:30:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:30:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:31:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/root/Automation-APP/edit" for 172.18.0.1 at 2021-03-19 03:31:16 +0000
+Processing by ProjectsController#edit as HTML
+  Parameters: {"namespace_id"=>"root", "id"=>"Automation-APP"}
+Completed 200 OK in 296ms (Views: 247.1ms | ActiveRecord: 28.5ms | Elasticsearch: 0.0ms | Allocations: 266425)
+Started GET "/api/v4/projects/2/badges" for 172.18.0.1 at 2021-03-19 03:31:17 +0000
+Processing by Gitlab::RequestForgeryProtection::Controller#index as HTML
+Completed 200 OK in 1ms (ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 129)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:31:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 234ms (Views: 225.2ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 84702)
+Started GET "/admin/application_settings/general" for 172.18.0.1 at 2021-03-19 03:31:24 +0000
+Processing by Admin::ApplicationSettingsController#general as HTML
+Completed 200 OK in 313ms (Views: 293.6ms | ActiveRecord: 6.7ms | Elasticsearch: 0.0ms | Allocations: 404759)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:31:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/" for 172.18.0.1 at 2021-03-19 03:31:30 +0000
+Processing by RootController#index as HTML
+Completed 200 OK in 670ms (Views: 519.4ms | ActiveRecord: 13.6ms | Elasticsearch: 0.0ms | Allocations: 236565)
+Started GET "/root/Automation-APP" for 172.18.0.1 at 2021-03-19 03:31:36 +0000
+Processing by ProjectsController#show as HTML
+  Parameters: {"namespace_id"=>"root", "id"=>"Automation-APP"}
+Completed 200 OK in 1471ms (Views: 1170.6ms | ActiveRecord: 169.6ms | Elasticsearch: 0.0ms | Allocations: 849748)
+Started POST "/api/graphql" for 172.18.0.1 at 2021-03-19 03:31:38 +0000
+Started GET "/root/Automation-APP/-/refs/main/logs_tree/?format=json&offset=0" for 172.18.0.1 at 2021-03-19 03:31:38 +0000
+Processing by GraphqlController#execute as */*
+  Parameters: {"query"=>"query pathLastCommit($projectPath: ID!, $path: String, $ref: String!) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        lastCommit {\n          __typename\n          sha\n          title\n          titleHtml\n          descriptionHtml\n          message\n          webPath\n          authoredDate\n          authorName\n          authorGravatar\n          author {\n            __typename\n            name\n            avatarUrl\n            webPath\n          }\n          signatureHtml\n          pipelines(ref: $ref, first: 1) {\n            __typename\n            edges {\n              __typename\n              node {\n                __typename\n                detailedStatus {\n                  __typename\n                  detailsPath\n                  icon\n                  tooltip\n                  text\n                  group\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n", "variables"=>"[FILTERED]", "graphql"=>{"query"=>"query pathLastCommit($projectPath: ID!, $path: String, $ref: String!) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        lastCommit {\n          __typename\n          sha\n          title\n          titleHtml\n          descriptionHtml\n          message\n          webPath\n          authoredDate\n          authorName\n          authorGravatar\n          author {\n            __typename\n            name\n            avatarUrl\n            webPath\n          }\n          signatureHtml\n          pipelines(ref: $ref, first: 1) {\n            __typename\n            edges {\n              __typename\n              node {\n                __typename\n                detailedStatus {\n                  __typename\n                  detailsPath\n                  icon\n                  tooltip\n                  text\n                  group\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n", "variables"=>"[FILTERED]"}}
+Started GET "/root/Automation-APP/-/blob/main/README.md?format=json&viewer=rich" for 172.18.0.1 at 2021-03-19 03:31:38 +0000
+Processing by Projects::BlobController#show as JSON
+  Parameters: {"viewer"=>"rich", "namespace_id"=>"root", "project_id"=>"Automation-APP", "id"=>"main/README.md"}
+Processing by Projects::RefsController#logs_tree as JSON
+  Parameters: {"offset"=>"0", "namespace_id"=>"root", "project_id"=>"Automation-APP", "id"=>"main"}
+Completed 200 OK in 67ms (Views: 0.8ms | ActiveRecord: 5.8ms | Elasticsearch: 0.0ms | Allocations: 21941)
+Completed 200 OK in 174ms (Views: 0.4ms | ActiveRecord: 22.6ms | Elasticsearch: 0.0ms | Allocations: 64368)
+Completed 200 OK in 172ms (Views: 0.3ms | ActiveRecord: 2.3ms | Elasticsearch: 0.0ms | Allocations: 27088)
+Started POST "/api/graphql" for 172.18.0.1 at 2021-03-19 03:31:38 +0000
+Processing by GraphqlController#execute as */*
+  Parameters: {"_json"=>[{"operationName"=>"getPermissions", "variables"=>"[FILTERED]", "query"=>"query getPermissions($projectPath: ID!) {\n  project(fullPath: $projectPath) {\n    __typename\n    userPermissions {\n      __typename\n      pushCode\n      forkProject\n      createMergeRequestIn\n    }\n  }\n}\n"}, {"operationName"=>"getFiles", "variables"=>"[FILTERED]", "query"=>"fragment PageInfo on PageInfo {\n  __typename\n  hasNextPage\n  hasPreviousPage\n  startCursor\n  endCursor\n}\n\nfragment TreeEntry on Entry {\n  __typename\n  id\n  sha\n  name\n  flatPath\n  type\n}\n\nquery getFiles($projectPath: ID!, $path: String, $ref: String!, $pageSize: Int!, $nextPageCursor: String) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        trees(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webPath\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        submodules(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webUrl\n              treeUrl\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        blobs(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              mode\n              webPath\n              lfsOid\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n      }\n    }\n  }\n}\n"}], "graphql"=>{"_json"=>[{"operationName"=>"getPermissions", "variables"=>"[FILTERED]", "query"=>"query getPermissions($projectPath: ID!) {\n  project(fullPath: $projectPath) {\n    __typename\n    userPermissions {\n      __typename\n      pushCode\n      forkProject\n      createMergeRequestIn\n    }\n  }\n}\n"}, {"operationName"=>"getFiles", "variables"=>"[FILTERED]", "query"=>"fragment PageInfo on PageInfo {\n  __typename\n  hasNextPage\n  hasPreviousPage\n  startCursor\n  endCursor\n}\n\nfragment TreeEntry on Entry {\n  __typename\n  id\n  sha\n  name\n  flatPath\n  type\n}\n\nquery getFiles($projectPath: ID!, $path: String, $ref: String!, $pageSize: Int!, $nextPageCursor: String) {\n  project(fullPath: $projectPath) {\n    __typename\n    repository {\n      __typename\n      tree(path: $path, ref: $ref) {\n        __typename\n        trees(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webPath\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        submodules(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              webUrl\n              treeUrl\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n        blobs(first: $pageSize, after: $nextPageCursor) {\n          __typename\n          edges {\n            __typename\n            node {\n              ...TreeEntry\n              mode\n              webPath\n              lfsOid\n              __typename\n            }\n          }\n          pageInfo {\n            ...PageInfo\n            __typename\n          }\n        }\n      }\n    }\n  }\n}\n"}]}}
+Completed 200 OK in 59ms (Views: 0.8ms | ActiveRecord: 2.9ms | Elasticsearch: 0.0ms | Allocations: 34802)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:31:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.5ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:31:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:32:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:32:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 94ms (Views: 90.4ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85909)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:32:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 928)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:32:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:32:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 940)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:33:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:33:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 77ms (Views: 73.3ms | ActiveRecord: 0.3ms | Elasticsearch: 0.0ms | Allocations: 85278)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:33:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 12ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:33:40 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:33:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.3ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:34:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)
+Started GET "/help" for 127.0.0.1 at 2021-03-19 03:34:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 109ms (Views: 105.1ms | ActiveRecord: 0.4ms | Elasticsearch: 0.0ms | Allocations: 85195)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-03-19 03:34:25 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.4ms | ActiveRecord: 0.0ms | Elasticsearch: 0.0ms | Allocations: 927)

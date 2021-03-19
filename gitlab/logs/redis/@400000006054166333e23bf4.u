@@ -1,0 +1,34 @@
+2021-03-19_02:41:52.95877 437:C 19 Mar 2021 02:41:52.958 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2021-03-19_02:41:52.95886 437:C 19 Mar 2021 02:41:52.958 # Redis version=6.0.10, bits=64, commit=8d70d498, modified=1, pid=437, just started
+2021-03-19_02:41:52.95886 437:C 19 Mar 2021 02:41:52.958 # Configuration loaded
+2021-03-19_02:41:52.96043 437:M 19 Mar 2021 02:41:52.960 * Running mode=standalone, port=0.
+2021-03-19_02:41:52.96046 437:M 19 Mar 2021 02:41:52.960 # Server initialized
+2021-03-19_02:41:52.96046 437:M 19 Mar 2021 02:41:52.960 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2021-03-19_02:41:52.96081 437:M 19 Mar 2021 02:41:52.960 * The server is now ready to accept connections at /var/opt/gitlab/redis/redis.socket
+2021-03-19_02:46:53.06744 437:M 19 Mar 2021 02:46:53.067 * 10 changes in 300 seconds. Saving...
+2021-03-19_02:46:53.06774 437:M 19 Mar 2021 02:46:53.067 * Background saving started by pid 1794
+2021-03-19_02:46:53.07730 1794:C 19 Mar 2021 02:46:53.077 * DB saved on disk
+2021-03-19_02:46:53.07767 1794:C 19 Mar 2021 02:46:53.077 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_02:46:53.16823 437:M 19 Mar 2021 02:46:53.168 * Background saving terminated with success
+2021-03-19_02:51:54.05499 437:M 19 Mar 2021 02:51:54.054 * 10 changes in 300 seconds. Saving...
+2021-03-19_02:51:54.05539 437:M 19 Mar 2021 02:51:54.055 * Background saving started by pid 2365
+2021-03-19_02:51:54.06418 2365:C 19 Mar 2021 02:51:54.064 * DB saved on disk
+2021-03-19_02:51:54.06476 2365:C 19 Mar 2021 02:51:54.064 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_02:51:54.15594 437:M 19 Mar 2021 02:51:54.155 * Background saving terminated with success
+2021-03-19_02:56:55.04751 437:M 19 Mar 2021 02:56:55.047 * 10 changes in 300 seconds. Saving...
+2021-03-19_02:56:55.04800 437:M 19 Mar 2021 02:56:55.047 * Background saving started by pid 2937
+2021-03-19_02:56:55.05892 2937:C 19 Mar 2021 02:56:55.058 * DB saved on disk
+2021-03-19_02:56:55.05952 2937:C 19 Mar 2021 02:56:55.059 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_02:56:55.14870 437:M 19 Mar 2021 02:56:55.148 * Background saving terminated with success
+2021-03-19_03:01:56.02109 437:M 19 Mar 2021 03:01:56.021 * 10 changes in 300 seconds. Saving...
+2021-03-19_03:01:56.02164 437:M 19 Mar 2021 03:01:56.021 * Background saving started by pid 3508
+2021-03-19_03:01:56.03223 3508:C 19 Mar 2021 03:01:56.032 * DB saved on disk
+2021-03-19_03:01:56.03264 3508:C 19 Mar 2021 03:01:56.032 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_03:01:56.12220 437:M 19 Mar 2021 03:01:56.122 * Background saving terminated with success
+2021-03-19_03:02:30.42603 437:signal-handler (1616122950) Received SIGTERM scheduling shutdown...
+2021-03-19_03:02:30.50530 437:M 19 Mar 2021 03:02:30.505 # User requested shutdown...
+2021-03-19_03:02:30.50533 437:M 19 Mar 2021 03:02:30.505 * Saving the final RDB snapshot before exiting.
+2021-03-19_03:02:30.51142 437:M 19 Mar 2021 03:02:30.511 * DB saved on disk
+2021-03-19_03:02:30.51144 437:M 19 Mar 2021 03:02:30.511 * Removing the pid file.
+2021-03-19_03:02:30.51144 437:M 19 Mar 2021 03:02:30.511 * Removing the unix socket file.
+2021-03-19_03:02:30.51145 437:M 19 Mar 2021 03:02:30.511 # Redis is now ready to exit, bye bye...

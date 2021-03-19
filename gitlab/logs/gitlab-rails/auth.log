@@ -1,0 +1,12 @@
+# Logfile created on 2021-03-19 02:42:22 +0000 by logger.rb/v1.4.2
+{"severity":"INFO","time":"2021-03-19T02:42:22.631Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T02:42:46.733Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T02:43:06.124Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T02:43:12.417Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T02:44:02.578Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T02:44:40.936Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T03:11:54.805Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T03:12:00.848Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T03:14:06.536Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T03:14:12.688Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}
+{"severity":"INFO","time":"2021-03-19T03:15:07.733Z","correlation_id":null,"gitlab_throttle_user_allowlist":[]}

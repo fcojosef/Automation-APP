@@ -1,0 +1,55 @@
+# Logfile created on 2021-03-19 02:42:22 +0000 by logger.rb/v1.4.2
+{"severity":"DEBUG","time":"2021-03-19T02:42:22.250Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"INFO","time":"2021-03-19T02:42:22.616Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.479Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.521Z","correlation_id":null,"method":"with_lock_retries","class":"Gitlab::Database::Partitioning::PartitionCreator","message":"Lock timeout is set","current_iteration":1,"lock_timeout_in_ms":100}
+{"severity":"INFO","time":"2021-03-19T02:42:29.533Z","correlation_id":null,"message":"Created partition audit_events_000000 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.539Z","correlation_id":null,"message":"Created partition audit_events_202103 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.548Z","correlation_id":null,"message":"Created partition audit_events_202104 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.555Z","correlation_id":null,"message":"Created partition audit_events_202105 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.561Z","correlation_id":null,"message":"Created partition audit_events_202106 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.568Z","correlation_id":null,"message":"Created partition audit_events_202107 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.575Z","correlation_id":null,"message":"Created partition audit_events_202108 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.581Z","correlation_id":null,"message":"Created partition audit_events_202109 for table audit_events"}
+{"severity":"INFO","time":"2021-03-19T02:42:29.581Z","correlation_id":null,"method":"with_lock_retries","class":"Gitlab::Database::Partitioning::PartitionCreator","message":"Migration finished","current_iteration":1,"lock_timeout_in_ms":100}
+{"severity":"INFO","time":"2021-03-19T02:42:30.613Z","correlation_id":null,"message":"User \"Administrator\" (admin@example.com) was created"}
+{"severity":"INFO","time":"2021-03-19T02:42:30.968Z","correlation_id":null,"message":"Group \"GitLab Instance\" was created"}
+{"severity":"INFO","time":"2021-03-19T02:42:31.760Z","correlation_id":"7cc0394a42624706000b54d5f332dcd3","message":"GitLab Instance created a new project \"GitLab Instance / Monitoring\""}
+{"severity":"ERROR","time":"2021-03-19T02:42:31.927Z","correlation_id":"7cc0394a42624706000b54d5f332dcd3","message":"`AuthorizedProjectUpdate::ProjectCreateWorker.perform_async` cannot be called inside a transaction as this can lead to\nrace conditions when the worker runs before the transaction is committed and\ntries to access a model that has not been saved yet.\n\nUse an `after_commit` hook, or include `AfterCommitQueue` and use a `run_after_commit` block instead.\n"}
+{"severity":"INFO","time":"2021-03-19T02:42:32.326Z","correlation_id":null,"event":"authorized_projects_refresh","authorized_projects_refresh.source":"AuthorizedProjectsWorker","authorized_projects_refresh.rows_deleted":0,"authorized_projects_refresh.rows_added":0}
+{"severity":"ERROR","time":"2021-03-19T02:42:32.329Z","correlation_id":null,"message":"Cannot obtain an exclusive lease. There must be another instance already in execution."}
+{"severity":"DEBUG","time":"2021-03-19T02:42:45.964Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"INFO","time":"2021-03-19T02:42:46.694Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T02:43:06.082Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T02:43:12.373Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"DEBUG","time":"2021-03-19T02:43:30.615Z","correlation_id":null,"message":"ActiveRecord connection disconnected"}
+{"severity":"DEBUG","time":"2021-03-19T02:43:30.822Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T02:43:30.840Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T02:43:30.887Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T02:43:30.907Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T02:44:01.780Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"INFO","time":"2021-03-19T02:44:02.536Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"DEBUG","time":"2021-03-19T02:44:40.125Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"INFO","time":"2021-03-19T02:44:40.897Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T03:00:02.178Z","correlation_id":"5b39bad511f47b5b72a6b2a085cbbf56","message":"StuckCiJobsWorker: Cleaning stuck builds"}
+{"severity":"INFO","time":"2021-03-19T03:11:54.764Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T03:12:00.808Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T03:14:06.493Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T03:14:12.632Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"DEBUG","time":"2021-03-19T03:14:31.255Z","correlation_id":null,"message":"ActiveRecord connection disconnected"}
+{"severity":"DEBUG","time":"2021-03-19T03:14:31.523Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T03:14:31.543Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T03:14:31.646Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T03:14:31.649Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"DEBUG","time":"2021-03-19T03:15:06.930Z","correlation_id":null,"message":"ActiveRecord connection established"}
+{"severity":"INFO","time":"2021-03-19T03:15:07.696Z","correlation_id":null,"message":"Checking state of dynamic postgres partitions"}
+{"severity":"INFO","time":"2021-03-19T03:15:13.987Z","correlation_id":"01F147NPA19KASWZ3SEJ47327X","message":"Failed Login: username=guido ip=172.18.0.1"}
+{"severity":"INFO","time":"2021-03-19T03:15:21.100Z","correlation_id":"01F147NX3KB5SS1SB2MBC25XTF","message":"Successful Login: username=root ip=172.18.0.1 method=standard admin=true"}
+{"severity":"INFO","time":"2021-03-19T03:19:59.084Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Administrator created a new project \"Administrator / Automation-APP\""}
+{"severity":"INFO","time":"2021-03-19T03:19:59.442Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","event":"authorized_projects_refresh","authorized_projects_refresh.source":"AuthorizedProjectsWorker","authorized_projects_refresh.rows_deleted":0,"authorized_projects_refresh.rows_added":1}
+{"severity":"INFO","time":"2021-03-19T03:19:59.641Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Import job scheduled for root/Automation-APP with job ID d9f04e73d13b0975bf90169e."}
+{"severity":"INFO","time":"2021-03-19T03:20:50.582Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Updating statistics for project 2"}
+{"severity":"INFO","time":"2021-03-19T03:20:50.737Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Updating statistics for project 2"}
+{"severity":"INFO","time":"2021-03-19T03:24:00.775Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Updating statistics for project 2"}
+{"severity":"ERROR","time":"2021-03-19T03:24:00.813Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Cannot obtain an exclusive lease for namespace:namespaces_root_statistics:1. There must be another instance already in execution."}
+{"severity":"INFO","time":"2021-03-19T03:24:00.909Z","correlation_id":"01F147XMJTKBVMX4QHYRQSRYT1","message":"Updating statistics for project 2"}

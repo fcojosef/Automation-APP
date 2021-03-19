@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	commitGraph = true
+[remote "github"]
+	url = https://0ddfb25d41a4a11aff803fd2757741f0daa682ee@github.com/fcojosef/Automation-APP.git
+	fetch = +refs/heads/*:refs/heads/*
+	fetch = +refs/tags/*:refs/tags/*
+	fetch = +refs/pull/*/head:refs/merge-requests/*/head
+	mirror = true
+	prune = true
+[gitlab]
+	fullpath = root/Automation-APP

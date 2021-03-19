@@ -1,0 +1,58 @@
+# Logfile created on 2021-03-19 02:42:22 +0000 by logger.rb/v1.4.2
+2021-03-19T02:42:22.250Z: ActiveRecord connection established
+2021-03-19T02:42:22.616Z: Checking state of dynamic postgres partitions
+2021-03-19T02:42:29.479Z: Checking state of dynamic postgres partitions
+2021-03-19T02:42:29.521Z: {:method=>"with_lock_retries", :class=>"Gitlab::Database::Partitioning::PartitionCreator", :message=>"Lock timeout is set", :current_iteration=>1, :lock_timeout_in_ms=>100}
+2021-03-19T02:42:29.533Z: Created partition audit_events_000000 for table audit_events
+2021-03-19T02:42:29.538Z: Created partition audit_events_202103 for table audit_events
+2021-03-19T02:42:29.548Z: Created partition audit_events_202104 for table audit_events
+2021-03-19T02:42:29.555Z: Created partition audit_events_202105 for table audit_events
+2021-03-19T02:42:29.561Z: Created partition audit_events_202106 for table audit_events
+2021-03-19T02:42:29.568Z: Created partition audit_events_202107 for table audit_events
+2021-03-19T02:42:29.575Z: Created partition audit_events_202108 for table audit_events
+2021-03-19T02:42:29.581Z: Created partition audit_events_202109 for table audit_events
+2021-03-19T02:42:29.581Z: {:method=>"with_lock_retries", :class=>"Gitlab::Database::Partitioning::PartitionCreator", :message=>"Migration finished", :current_iteration=>1, :lock_timeout_in_ms=>100}
+2021-03-19T02:42:30.613Z: User "Administrator" (admin@example.com) was created
+2021-03-19T02:42:30.967Z: Group "GitLab Instance" was created
+2021-03-19T02:42:31.760Z: GitLab Instance created a new project "GitLab Instance / Monitoring"
+2021-03-19T02:42:31.927Z: `AuthorizedProjectUpdate::ProjectCreateWorker.perform_async` cannot be called inside a transaction as this can lead to
+race conditions when the worker runs before the transaction is committed and
+tries to access a model that has not been saved yet.
+
+Use an `after_commit` hook, or include `AfterCommitQueue` and use a `run_after_commit` block instead.
+
+2021-03-19T02:42:32.328Z: Cannot obtain an exclusive lease. There must be another instance already in execution.
+2021-03-19T02:42:45.964Z: ActiveRecord connection established
+2021-03-19T02:42:46.694Z: Checking state of dynamic postgres partitions
+2021-03-19T02:43:06.082Z: Checking state of dynamic postgres partitions
+2021-03-19T02:43:12.373Z: Checking state of dynamic postgres partitions
+2021-03-19T02:43:30.615Z: ActiveRecord connection disconnected
+2021-03-19T02:43:30.822Z: ActiveRecord connection established
+2021-03-19T02:43:30.840Z: ActiveRecord connection established
+2021-03-19T02:43:30.887Z: ActiveRecord connection established
+2021-03-19T02:43:30.907Z: ActiveRecord connection established
+2021-03-19T02:44:01.779Z: ActiveRecord connection established
+2021-03-19T02:44:02.536Z: Checking state of dynamic postgres partitions
+2021-03-19T02:44:40.125Z: ActiveRecord connection established
+2021-03-19T02:44:40.897Z: Checking state of dynamic postgres partitions
+2021-03-19T03:00:02.159Z: StuckCiJobsWorker: Cleaning stuck builds
+2021-03-19T03:11:54.764Z: Checking state of dynamic postgres partitions
+2021-03-19T03:12:00.808Z: Checking state of dynamic postgres partitions
+2021-03-19T03:14:06.493Z: Checking state of dynamic postgres partitions
+2021-03-19T03:14:12.632Z: Checking state of dynamic postgres partitions
+2021-03-19T03:14:31.255Z: ActiveRecord connection disconnected
+2021-03-19T03:14:31.522Z: ActiveRecord connection established
+2021-03-19T03:14:31.543Z: ActiveRecord connection established
+2021-03-19T03:14:31.646Z: ActiveRecord connection established
+2021-03-19T03:14:31.649Z: ActiveRecord connection established
+2021-03-19T03:15:06.930Z: ActiveRecord connection established
+2021-03-19T03:15:07.696Z: Checking state of dynamic postgres partitions
+2021-03-19T03:15:13.987Z: Failed Login: username=guido ip=172.18.0.1
+2021-03-19T03:15:21.100Z: Successful Login: username=root ip=172.18.0.1 method=standard admin=true
+2021-03-19T03:19:59.084Z: Administrator created a new project "Administrator / Automation-APP"
+2021-03-19T03:19:59.641Z: Import job scheduled for root/Automation-APP with job ID d9f04e73d13b0975bf90169e.
+2021-03-19T03:20:50.582Z: Updating statistics for project 2
+2021-03-19T03:20:50.737Z: Updating statistics for project 2
+2021-03-19T03:24:00.775Z: Updating statistics for project 2
+2021-03-19T03:24:00.813Z: Cannot obtain an exclusive lease for namespace:namespaces_root_statistics:1. There must be another instance already in execution.
+2021-03-19T03:24:00.909Z: Updating statistics for project 2

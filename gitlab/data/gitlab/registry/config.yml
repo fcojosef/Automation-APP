@@ -1,0 +1,27 @@
+version: 0.1
+log:
+  level: info
+  formatter: text
+  fields:
+    service: registry
+    environment: production
+storage: {"filesystem":{"rootdirectory":"/var/opt/gitlab/gitlab-rails/shared/registry"},"cache":{"blobdescriptor":"inmemory"},"delete":{"enabled":true}}
+http:
+  addr: localhost:5000
+  secret: "79729e3efd56895fb785f4b3e8f7f0911ff2407e699c492012ced5ad381f2d94a429d44977f603ecd12e69e70e4f74bc10c6e8443c87ab236ccc256c4b376b4a"
+  headers:
+    X-Content-Type-Options: [nosniff]
+health:
+  storagedriver:
+    enabled: true
+    interval: 10s
+    threshold: 3
+auth:
+  token:
+    realm: https://gitlab.example.com/jwt/auth
+    service: container_registry
+    issuer: omnibus-gitlab-issuer
+    rootcertbundle: /var/opt/gitlab/registry/gitlab-registry.crt
+    autoredirect: false
+validation:
+  disabled: true

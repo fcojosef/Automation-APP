@@ -1,0 +1,31 @@
+2021-03-19_03:13:32.63003 251:C 19 Mar 2021 03:13:32.629 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2021-03-19_03:13:32.63012 251:C 19 Mar 2021 03:13:32.629 # Redis version=6.0.10, bits=64, commit=8d70d498, modified=1, pid=251, just started
+2021-03-19_03:13:32.63012 251:C 19 Mar 2021 03:13:32.630 # Configuration loaded
+2021-03-19_03:13:32.63168 251:M 19 Mar 2021 03:13:32.631 * Running mode=standalone, port=0.
+2021-03-19_03:13:32.63171 251:M 19 Mar 2021 03:13:32.631 # Server initialized
+2021-03-19_03:13:32.63172 251:M 19 Mar 2021 03:13:32.631 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2021-03-19_03:13:32.63209 251:M 19 Mar 2021 03:13:32.632 * Loading RDB produced by version 6.0.10
+2021-03-19_03:13:32.63210 251:M 19 Mar 2021 03:13:32.632 * RDB age 662 seconds
+2021-03-19_03:13:32.63212 251:M 19 Mar 2021 03:13:32.632 * RDB memory usage when created 4.46 Mb
+2021-03-19_03:13:32.63328 251:M 19 Mar 2021 03:13:32.633 * DB loaded from disk: 0.001 seconds
+2021-03-19_03:13:32.63329 251:M 19 Mar 2021 03:13:32.633 * The server is now ready to accept connections at /var/opt/gitlab/redis/redis.socket
+2021-03-19_03:18:33.07858 251:M 19 Mar 2021 03:18:33.078 * 10 changes in 300 seconds. Saving...
+2021-03-19_03:18:33.07917 251:M 19 Mar 2021 03:18:33.079 * Background saving started by pid 1394
+2021-03-19_03:18:33.09030 1394:C 19 Mar 2021 03:18:33.090 * DB saved on disk
+2021-03-19_03:18:33.09069 1394:C 19 Mar 2021 03:18:33.090 * RDB: 1 MB of memory used by copy-on-write
+2021-03-19_03:18:33.18032 251:M 19 Mar 2021 03:18:33.180 * Background saving terminated with success
+2021-03-19_03:23:34.03653 251:M 19 Mar 2021 03:23:34.036 * 10 changes in 300 seconds. Saving...
+2021-03-19_03:23:34.03704 251:M 19 Mar 2021 03:23:34.036 * Background saving started by pid 1999
+2021-03-19_03:23:34.04763 1999:C 19 Mar 2021 03:23:34.047 * DB saved on disk
+2021-03-19_03:23:34.04811 1999:C 19 Mar 2021 03:23:34.048 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_03:23:34.13752 251:M 19 Mar 2021 03:23:34.137 * Background saving terminated with success
+2021-03-19_03:28:35.03324 251:M 19 Mar 2021 03:28:35.033 * 10 changes in 300 seconds. Saving...
+2021-03-19_03:28:35.03370 251:M 19 Mar 2021 03:28:35.033 * Background saving started by pid 2614
+2021-03-19_03:28:35.04381 2614:C 19 Mar 2021 03:28:35.043 * DB saved on disk
+2021-03-19_03:28:35.04433 2614:C 19 Mar 2021 03:28:35.044 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_03:28:35.13412 251:M 19 Mar 2021 03:28:35.134 * Background saving terminated with success
+2021-03-19_03:33:36.02224 251:M 19 Mar 2021 03:33:36.022 * 10 changes in 300 seconds. Saving...
+2021-03-19_03:33:36.02266 251:M 19 Mar 2021 03:33:36.022 * Background saving started by pid 3247
+2021-03-19_03:33:36.03476 3247:C 19 Mar 2021 03:33:36.034 * DB saved on disk
+2021-03-19_03:33:36.03519 3247:C 19 Mar 2021 03:33:36.035 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_03:33:36.12314 251:M 19 Mar 2021 03:33:36.123 * Background saving terminated with success

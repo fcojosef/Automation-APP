@@ -1,0 +1,4 @@
+2021-03-19_03:12:05.22253 time="2021-03-19T03:12:05Z" level=info msg="redis not configured" environment=production go_version=go1.14.7 instance_id=e4ed9cea-4f14-46d6-b252-8aea210033bb service=registry version=v3.0.0-gitlab
+2021-03-19_03:12:05.22288 time="2021-03-19T03:12:05Z" level=info msg="using inmemory blob descriptor cache" environment=production go_version=go1.14.7 instance_id=e4ed9cea-4f14-46d6-b252-8aea210033bb service=registry version=v3.0.0-gitlab
+2021-03-19_03:12:05.22359 time="2021-03-19T03:12:05Z" level=info msg="Starting upload purge in 45m0s" environment=production go_version=go1.14.7 instance_id=e4ed9cea-4f14-46d6-b252-8aea210033bb service=registry version=v3.0.0-gitlab
+2021-03-19_03:12:05.22369 time="2021-03-19T03:12:05Z" level=info msg="listening on 127.0.0.1:5000" environment=production go_version=go1.14.7 instance_id=e4ed9cea-4f14-46d6-b252-8aea210033bb service=registry version=v3.0.0-gitlab

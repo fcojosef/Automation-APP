@@ -44,3 +44,8 @@
 2021-03-19_03:48:39.07860 4950:C 19 Mar 2021 03:48:39.078 * DB saved on disk
 2021-03-19_03:48:39.07905 4950:C 19 Mar 2021 03:48:39.079 * RDB: 1 MB of memory used by copy-on-write
 2021-03-19_03:48:39.17079 251:M 19 Mar 2021 03:48:39.170 * Background saving terminated with success
+2021-03-19_03:53:40.09010 251:M 19 Mar 2021 03:53:40.090 * 10 changes in 300 seconds. Saving...
+2021-03-19_03:53:40.09046 251:M 19 Mar 2021 03:53:40.090 * Background saving started by pid 5516
+2021-03-19_03:53:40.10116 5516:C 19 Mar 2021 03:53:40.101 * DB saved on disk
+2021-03-19_03:53:40.10172 5516:C 19 Mar 2021 03:53:40.101 * RDB: 0 MB of memory used by copy-on-write
+2021-03-19_03:53:40.19047 251:M 19 Mar 2021 03:53:40.190 * Background saving terminated with success

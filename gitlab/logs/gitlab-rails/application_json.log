@@ -56,3 +56,4 @@
 {"severity":"INFO","time":"2021-03-19T03:35:53.589Z","correlation_id":"e389a58519289069af4dead8338fcbc2","message":"Updating statistics for project 2"}
 {"severity":"INFO","time":"2021-03-19T03:39:02.607Z","correlation_id":"6317d041e4fa3eb3a35082a901affcc6","message":"Updating statistics for project 2"}
 {"severity":"INFO","time":"2021-03-19T03:42:35.384Z","correlation_id":"3320f2ff17814602acc9f6fd16d2a8da","event":"authorized_projects_refresh","authorized_projects_refresh.source":"AuthorizedProjectUpdate::UserRefreshWithLowUrgencyWorker","authorized_projects_refresh.rows_deleted":0,"authorized_projects_refresh.rows_added":0}
+{"severity":"INFO","time":"2021-03-19T04:00:27.575Z","correlation_id":"ec35add0fac734bd8acee7ff04f9932e","message":"StuckCiJobsWorker: Cleaning stuck builds"}
